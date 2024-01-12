@@ -6,7 +6,7 @@ I am a developer in the process of learning different programming languages. Her
 - 🌟 Python
 - 🌟 JavaScript
 - 🌟 Java
-- 🌟 c++
+- 🌟 C++
 
 
 ## My story as a developer
